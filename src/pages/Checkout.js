@@ -1,7 +1,6 @@
 import React from 'react'
 import NavBar from '../components/NavBar';
-import Checkout from '../components/Checkout';
-
+// on checkout branch
 const CheckOutPage = () => (
     <div>
        <NavBar 
